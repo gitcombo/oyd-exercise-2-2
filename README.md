@@ -23,6 +23,6 @@ GitHub Actions CI pipeline that validates and plans a Terraform workspace on eve
 ## Evidence
 
 <!-- Replace the URL below with the actual PR link once the pipeline has run -->
-- Pull Request: [PR #1 — trigger CI pipeline](https://github.com/gitcombo/oyd-exercise-2-2/pull/3)
+- Pull Request: [PR #3 — trigger CI pipeline](https://github.com/gitcombo/oyd-exercise-2-2/pull/3)
 
 ![PR comment](evidence/pr-comment.png)
