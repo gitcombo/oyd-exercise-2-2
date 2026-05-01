@@ -1,4 +1,4 @@
-# oyd-exercise-2-2
+# Exercise 2.2 — GitHub Actions CI Workflow for Terraform
 
 GitHub Actions CI pipeline that validates and plans a Terraform workspace on every pull request targeting `main`.
 
